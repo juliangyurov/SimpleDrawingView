@@ -1,5 +1,7 @@
 # SimpleDrawingView
 Testing Android drawing 
--Paint 
--Drawing 
--View
+* Canvas 
+* Color 
+* Paint
+* View
+
